@@ -1,2 +1,2 @@
-include ':app', ':PdfiumAndroid-master'
+include ':app', ':SampleIum'
 rootProject.name='Pdfium'
